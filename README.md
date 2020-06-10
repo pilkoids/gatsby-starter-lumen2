@@ -54,7 +54,7 @@ gatsby new blog https://github.com/alxshelepenok/gatsby-starter-lumen
 
 #### Start Developing
 
-Navigate into your new site’s directory and start it up.
+Navigate into your new site’s directory and start it up. 
 
 ```sh
 cd blog
